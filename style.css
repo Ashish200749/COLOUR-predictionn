@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background: #0e0f11;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 30px;
+}
+
+#countdown {
+  font-size: 48px;
+  margin: 20px;
+}
+
+.telegram-btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #2aabee;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 20px;
+}
